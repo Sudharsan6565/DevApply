@@ -3,3 +3,4 @@ node_modules
 frontend/dist
 venv/
 devapply-creds.json
+devapply-creds.json
